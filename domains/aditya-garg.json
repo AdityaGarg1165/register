@@ -1,0 +1,13 @@
+{
+    "owner": {
+        "username": "adityagarg1165",
+        "email": "adityagarg1165@gmail.com"
+    },
+    "record": {
+        "CNAME": "viiibe.vercel.app",
+        "TXT": [
+            "resend-verification=p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQD1V7cRIuP2bKZL2M84NJ0mP1svHLGPIB7kiY1q+rMrgbMbcvcJ2HJIhDy/Uv0HdHQFaHQepDB5HeZ26aqksVzCuxq7meXWeIXuBHZq8WymdP5mQ3ZuvHaEvfA9B9zNht2d2GYwMiHYaIu+Fjgav5QJaK96dbwtL/rGpJtYoOLq9wIDAQAB",
+            "resend._domainkey.aditya-garg=p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQD1V7cRIuP2bKZL2M84NJ0mP1svHLGPIB7kiY1q+rMrgbMbcvcJ2HJIhDy/Uv0HdHQFaHQepDB5HeZ26aqksVzCuxq7meXWeIXuBHZq8WymdP5mQ3ZuvHaEvfA9B9zNht2d2GYwMiHYaIu+Fjgav5QJaK96dbwtL/rGpJtYoOLq9wIDAQAB"
+        ]
+    }
+}
